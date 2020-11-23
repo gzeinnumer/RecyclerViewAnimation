@@ -34,9 +34,9 @@ public class RVAdapter extends RecyclerView.Adapter<RVAdapter.MyHolder> {
 //        int anim = R.anim.anim_two;
 //        int anim = R.anim.anim_three;
 //        int anim = R.anim.anim_simple_one;
-        int anim = R.anim.anim_simple_two;
+//        int anim = R.anim.anim_simple_two;
 //        int anim = R.anim.anim_simple_three;
-//        int anim = R.anim.anim_simple_fourth;
+        int anim = R.anim.anim_simple_fourth;
 
         holder.itemView.setAnimation(AnimationUtils.loadAnimation(holder.itemView.getContext(), anim));
     }
