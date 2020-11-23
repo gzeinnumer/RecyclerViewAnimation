@@ -40,7 +40,7 @@
 - **anim_simple_fourth.xml**
 
 <p align="center">
-  <img src="https://github.com/gzeinnumer/RecyclerViewAnimation/blob/master/preview/example.gif" width="200"/>
+  <img src="https://github.com/gzeinnumer/RecyclerViewAnimation/blob/master/preview/example7.gif" width="200"/>
 </p>
 
 ---
