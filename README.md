@@ -42,3 +42,9 @@
 <p align="center">
   <img src="https://github.com/gzeinnumer/RecyclerViewAnimation/blob/master/preview/example7.gif" width="200"/>
 </p>
+
+---
+
+```
+Copyright 2020 M. Fadli Zein
+```
