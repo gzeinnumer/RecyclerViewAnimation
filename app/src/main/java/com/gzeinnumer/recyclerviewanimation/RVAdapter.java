@@ -30,13 +30,13 @@ public class RVAdapter extends RecyclerView.Adapter<RVAdapter.MyHolder> {
     public void onBindViewHolder(@NonNull MyHolder holder, int position) {
         holder.bindData(list.get(position));
 
-        int anim = R.anim.anim_one;
+//        int anim = R.anim.anim_one;
 //        int anim = R.anim.anim_two;
 //        int anim = R.anim.anim_three;
 //        int anim = R.anim.anim_simple_one;
 //        int anim = R.anim.anim_simple_two;
 //        int anim = R.anim.anim_simple_three;
-//        int anim = R.anim.anim_simple_fourth;
+        int anim = R.anim.anim_simple_fourth;
 
         holder.itemView.setAnimation(AnimationUtils.loadAnimation(holder.itemView.getContext(), anim));
     }
