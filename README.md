@@ -1,6 +1,22 @@
 # RecyclerViewAnimation
  https://levelup.gitconnected.com/android-recyclerview-animations-in-kotlin-1e323ffd39be
 
+- Set Animation
+
+```java
+public class RVAdapter extends RecyclerView.Adapter<RVAdapter.MyHolder> {
+
+    @Override
+    public void onBindViewHolder(@NonNull MyHolder holder, int position) {
+        holder.bindData(list.get(position));
+
+        int anim = R.anim.anim_simple_fourth;
+
+        holder.itemView.setAnimation(AnimationUtils.loadAnimation(holder.itemView.getContext(), anim));
+    }
+}
+```
+
 - **anim_one.xml**
 
 <p align="center">
