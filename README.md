@@ -17,42 +17,49 @@ public class RVAdapter extends RecyclerView.Adapter<RVAdapter.MyHolder> {
 }
 ```
 
+#
 - [**anim_one.xml**](https://github.com/gzeinnumer/RecyclerViewAnimation/blob/master/app/src/main/res/anim/anim_one.xml)
 
 <p align="center">
   <img src="https://github.com/gzeinnumer/RecyclerViewAnimation/blob/master/preview/example1.gif" width="200"/>
 </p>
 
+#
 - [**anim_two.xml**](https://github.com/gzeinnumer/RecyclerViewAnimation/blob/master/app/src/main/res/anim/anim_two.xml)
 
 <p align="center">
   <img src="https://github.com/gzeinnumer/RecyclerViewAnimation/blob/master/preview/example2.gif" width="200"/>
 </p>
 
+#
 - [**anim_three.xml**](https://github.com/gzeinnumer/RecyclerViewAnimation/blob/master/app/src/main/res/anim/anim_three.xml)
 
 <p align="center">
   <img src="https://github.com/gzeinnumer/RecyclerViewAnimation/blob/master/preview/example3.gif" width="200"/>
 </p>
 
+#
 - [**anim_simple_one.xml**](https://github.com/gzeinnumer/RecyclerViewAnimation/blob/master/app/src/main/res/anim/anim_simple_one.xml)
 
 <p align="center">
   <img src="https://github.com/gzeinnumer/RecyclerViewAnimation/blob/master/preview/example4.gif" width="200"/>
 </p>
 
+#
 - [**anim_simple_two.xml**](https://github.com/gzeinnumer/RecyclerViewAnimation/blob/master/app/src/main/res/anim/anim_simple_two.xml)
 
 <p align="center">
   <img src="https://github.com/gzeinnumer/RecyclerViewAnimation/blob/master/preview/example5.gif" width="200"/>
 </p>
 
+#
 - [**anim_simple_three.xml**](https://github.com/gzeinnumer/RecyclerViewAnimation/blob/master/app/src/main/res/anim/anim_simple_three.xml)
 
 <p align="center">
   <img src="https://github.com/gzeinnumer/RecyclerViewAnimation/blob/master/preview/example6.gif" width="200"/>
 </p>
 
+#
 - [**anim_simple_fourth.xml**](https://github.com/gzeinnumer/RecyclerViewAnimation/blob/master/app/src/main/res/anim/anim_simple_fourth.xml)
 
 <p align="center">
