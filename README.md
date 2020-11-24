@@ -6,6 +6,8 @@
 ```java
 public class RVAdapter extends RecyclerView.Adapter<RVAdapter.MyHolder> {
 
+    ...
+    
     @Override
     public void onBindViewHolder(@NonNull MyHolder holder, int position) {
         holder.bindData(list.get(position));
@@ -14,6 +16,9 @@ public class RVAdapter extends RecyclerView.Adapter<RVAdapter.MyHolder> {
 
         holder.itemView.setAnimation(AnimationUtils.loadAnimation(holder.itemView.getContext(), anim));
     }
+    
+    ...
+    
 }
 ```
 
